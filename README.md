@@ -1,5 +1,14 @@
 # [Voucherify](http://voucherify.io?utm_source=github&utm_medium=sdk&utm_campaign=acq) SDKs
 
+You plan to use voucher campaigns to boost your sales. Be it promo codes sent to your customers by email or SMS, spread with social media, or printed out on fliers or gift cards. Aimed for acquiring new customers and earning loyalty of the existing ones. Here is how Voucherify comes into play:
+
+* [Generate one time personalised promo codes on the fly.](https://voucherify.readme.io/docs/create-your-first-campaign)
+* [Track coupon redemptions.](https://voucherify.readme.io/docs/redemption-history)
+* [Manage discount coupons for online marketplace.](http://www.voucherify.io/usecase-online-marketplace?utm_source=inapp&utm_medium=email&utm_campaign=act)
+* [Send out loyalty award program vouchers.](http://www.voucherify.io/usecase-loyalty-award-programme?utm_source=inapp&utm_medium=email&utm_campaign=act)
+
+:+1: [Voucherify slack channel](http://community.voucherify.io)
+
 ## Client
 * [JavaScript](https://github.com/rspective/voucherify.js)
 * [Android](https://github.com/rspective/voucherify-android-sdk)
@@ -13,4 +22,4 @@
 * [Python](https://github.com/voucherifyio/voucherify-python-sdk)
 * C# (coming soon)
 
-:+1: [Voucherify slack channel](http://community.voucherify.io)
+
