@@ -20,6 +20,6 @@ You plan to use voucher campaigns to boost your sales. Be it promo codes sent to
 * [PHP](https://github.com/rspective/voucherify-php-sdk)
 * [Ruby](https://github.com/rspective/voucherify-ruby-sdk)
 * [Python](https://github.com/voucherifyio/voucherify-python-sdk)
-* C# (coming soon)
+* [.NET](https://github.com/voucherifyio/voucherify-dotNET-sdk)
 
 
